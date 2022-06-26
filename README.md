@@ -1,6 +1,7 @@
 # SpringBoot-Unit-Integration-Test
 
 mvn clean install
+
 mvn spring-boot:run
 
 to run spring boot- dev from command-line : mvn spring-boot:run -Pdev
